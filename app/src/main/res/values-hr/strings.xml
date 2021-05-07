@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Auti</string>
+    <string name="share">Podjeli</string>
+    <string name="share_text">Jeste li sigurni?</string>
+    <string name="more">Još slika</string>
+    <string name="internet">Internetska veza promjenjena</string>
+</resources>

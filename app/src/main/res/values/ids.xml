@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="activity_show_message" type="id" />
+    <item name="textView3" type="id" />
+    <item name="tvOd" type="id" />
+    <item name="tvPoruka" type="id" />
+</resources>
